@@ -1,0 +1,156 @@
+Lineup
+[T.Rozier, J.Tatum, M.Smart, M.Morris, A.Horford ]
+Team: BOS <https://www.basketball-reference.com/teams/BOS/2018.html>
+
+Positional Ambiguity Index: 6.6804749999999995
+
+Lineup
+[R.Rubio, R.Gobert, J.Ingles, D.Mitchell, D.Favors ]
+Team: UTA <https://www.basketball-reference.com/teams/UTA/2018.html>
+
+Positional Ambiguity Index: 6.506018999999999
+
+Lineup
+[T.Thompson, J.Green, G.Hill, L.James, J.Smith ]
+Team: CLE <https://www.basketball-reference.com/teams/CLE/2018.html>
+
+Positional Ambiguity Index: 4.2774149999999995
+
+Lineup
+[S.Curry, A.Iguodala, D.Green, K.Thompson, K.Durant ]
+Team: GSW <https://www.basketball-reference.com/teams/GSW/2018.html>
+
+Positional Ambiguity Index: 3.147036
+
+Lineup
+[T.Rozier, J.Brown, S.Ojeleye, J.Tatum, A.Horford ]
+Team: BOS <https://www.basketball-reference.com/teams/BOS/2018.html>
+
+Positional Ambiguity Index: 4.990273999999999
+
+Lineup
+[D.Collison, V.Oladipo, B.Bogdanović, T.Young, M.Turner ]
+Team: IND <https://www.basketball-reference.com/teams/IND/2018.html>
+
+Positional Ambiguity Index: 9.9812
+
+Lineup
+[T.Ariza, J.Harden, P.Tucker, E.Gordon, C.Capela ]
+Team: HOU <https://www.basketball-reference.com/teams/HOU/2018.html>
+
+Positional Ambiguity Index: 7.6918500000000005
+
+Lineup
+[J.McGee, A.Iguodala, D.Green, K.Thompson, K.Durant ]
+Team: GSW <https://www.basketball-reference.com/teams/GSW/2018.html>
+
+Positional Ambiguity Index: 7.137036000000001
+
+Lineup
+[C.Paul, T.Ariza, J.Harden, P.Tucker, C.Capela ]
+Team: HOU <https://www.basketball-reference.com/teams/HOU/2018.html>
+
+Positional Ambiguity Index: 7.40025
+
+Lineup
+[A.Iguodala, D.Green, K.Looney, K.Thompson, K.Durant ]
+Team: GSW <https://www.basketball-reference.com/teams/GSW/2018.html>
+
+Positional Ambiguity Index: 5.387480000000001
+
+Lineup
+[S.Curry, D.Green, K.Looney, K.Thompson, K.Durant ]
+Team: GSW <https://www.basketball-reference.com/teams/GSW/2018.html>
+
+Positional Ambiguity Index: 4.586144
+
+Lineup
+[K.Love, G.Hill, L.James, K.Korver, J.Smith ]
+Team: CLE <https://www.basketball-reference.com/teams/CLE/2018.html>
+
+Positional Ambiguity Index: 5.944897
+
+Lineup
+[T.Rozier, J.Tatum, A.Baynes, M.Smart, A.Horford ]
+Team: BOS <https://www.basketball-reference.com/teams/BOS/2018.html>
+
+Positional Ambiguity Index: 7.987475
+
+Lineup
+[R.Rondo, A.Davis, E.Moore, N.Mirotić, J.Holiday ]
+Team: NOP <https://www.basketball-reference.com/teams/NOP/2018.html>
+
+Positional Ambiguity Index: 8.891433000000001
+
+Lineup
+[S.Curry, J.McGee, D.Green, K.Thompson, K.Durant ]
+Team: GSW <https://www.basketball-reference.com/teams/GSW/2018.html>
+
+Positional Ambiguity Index: 6.3357
+
+Lineup
+[S.Curry, J.Bell, D.Green, K.Thompson, K.Durant ]
+Team: GSW <https://www.basketball-reference.com/teams/GSW/2018.html>
+
+Positional Ambiguity Index: 5.1553
+
+Lineup
+[O.Anunoby, D.DeRozan, S.Ibaka, J.Valančiūnas, K.Lowry ]
+Team: TOR <https://www.basketball-reference.com/teams/TOR/2018.html>
+
+Positional Ambiguity Index: 5.830802
+
+Lineup
+[C.Paul, T.Ariza, J.Harden, P.Tucker, E.Gordon ]
+Team: HOU <https://www.basketball-reference.com/teams/HOU/2018.html>
+
+Positional Ambiguity Index: 3.69185
+
+Lineup
+[T.Rozier, J.Brown, J.Tatum, M.Morris, A.Horford ]
+Team: BOS <https://www.basketball-reference.com/teams/BOS/2018.html>
+
+Positional Ambiguity Index: 6.381964
+
+Lineup
+[T.Thompson, K.Love, G.Hill, L.James, J.Smith ]
+Team: CLE <https://www.basketball-reference.com/teams/CLE/2018.html>
+
+Positional Ambiguity Index: 6.323765
+
+Lineup
+[D.Lillard, J.Nurkić, A.Aminu, C.McCollum, E.Turner ]
+Team: POR <https://www.basketball-reference.com/teams/POR/2018.html>
+
+Positional Ambiguity Index: 9.9423
+
+Lineup
+[J.Wall, M.Gortat, B.Beal, M.Morris, O.Porter ]
+Team: WAS <https://www.basketball-reference.com/teams/WAS/2018.html>
+
+Positional Ambiguity Index: 6.21107
+
+Lineup
+[T.Rozier, J.Brown, J.Tatum, A.Baynes, A.Horford ]
+Team: BOS <https://www.basketball-reference.com/teams/BOS/2018.html>
+
+Positional Ambiguity Index: 7.688963999999999
+
+Lineup
+[C.Anthony, P.George, R.Westbrook, C.Brewer, S.Adams ]
+Team: OKC <https://www.basketball-reference.com/teams/OKC/2018.html>
+
+Positional Ambiguity Index: 9.6308
+
+Lineup
+[D.Šarić, J.Redick, R.Covington, J.Embiid, B.Simmons ]
+Team: PHI <https://www.basketball-reference.com/teams/PHI/2018.html>
+
+Positional Ambiguity Index: 10.0096
+
+Lineup
+[J.Butler, J.Teague, A.Wiggins, T.Gibson, K.Towns ]
+Team: MIN <https://www.basketball-reference.com/teams/MIN/2018.html>
+
+Positional Ambiguity Index: 8.196746000000001
+
